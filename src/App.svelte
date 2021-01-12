@@ -33,7 +33,6 @@
   }
   h1 {
     color: rgb(1, 1, 59);
-    text-transform: uppercase;
     font-size: 2em;
     font-weight: 100;
     text-align: center;

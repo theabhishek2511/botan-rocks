@@ -1,984 +1,889 @@
 {
   "files": [
     {
-      "name": "A Stench of Cow Manure...",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/A-Stench-of-Cow-Manure.mp3"
+      "name": "breath",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_breath.mp3"
     },
     {
-      "name": "Absolutely Correct Sir",
-      "artist": "Neil Rogers/Old Bridge Dude",
-      "mp3": "/sounds/Absolutely-Correct-Sir.mp3"
+      "name": "breath2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_breath2.mp3"
     },
     {
-      "name": "Anybody have a heart or a liver",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Anybody-have-a-heart-or-a-liver.mp3"
+      "name": "fall",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_fall.mp3"
     },
     {
-      "name": "Are you sure?",
-      "artist": "Phil Hendrie",
-      "mp3": "/sounds/Are-You-Sure.mp3"
+      "name": "hurt",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_hurt.mp3"
     },
     {
-      "name": "Awright",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Awright.mp3"
+      "name": "hurt2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_hurt2.mp3"
     },
     {
-      "name": "Ayayayayayayayay!",
-      "artist": "",
-      "mp3": "/sounds/Ayayayayayayayay!.mp3"
+      "name": "hurt3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_hurt3.mp3"
     },
     {
-      "name": "Ayy Papa Juan Pablo",
-      "artist": "",
-      "mp3": "/sounds/Ayy-Papa-Juan-Pablo.mp3"
+      "name": "hurt4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_hurt4.mp3"
     },
     {
-      "name": "Bird laugh",
-      "artist": "Glen Hill",
-      "mp3": "/sounds/Laugh-Bird.mp3"
+      "name": "i dont wanna die",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_i dont wanna die.mp3"
     },
     {
-      "name": "Bop Bop Bop",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/Bop-Bop-Bop.mp3"
+      "name": "laugh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_laugh.mp3"
     },
     {
-      "name": "Boy does he have a lot of chutzpah!",
-      "artist": "",
-      "mp3": "/sounds/Boy-does-he-have-a-lot-of-chutzpah!.mp3"
+      "name": "scream",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_scream.mp3"
     },
     {
-      "name": "Brad Pitt God",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Brad-Pitt-God.mp3"
+      "name": "scream2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/botan_scream2.mp3"
     },
     {
-      "name": "Burp",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/Burp.mp3"
+      "name": "scream3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_scream3.mp3"
     },
     {
-      "name": "Bye Bye Bye",
-      "artist": "",
-      "mp3": "/sounds/Bye-Bye-Bye.mp3"
+      "name": "scream4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_scream4.mp3"
     },
     {
-      "name": "Caca poop",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Caca-poop.mp3"
+      "name": "scream5",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_scream5.mp3"
     },
     {
-      "name": "Cacamoon",
-      "artist": "The Cacamoon Lady",
-      "mp3": "/sounds/Cacamoon.mp3"
+      "name": "scream6",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_scream6.mp3"
     },
     {
-      "name": "Can't beat that gator meat",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Can't-beat-that-Gator-meat.mp3"
+      "name": "scream7",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_scream7.mp3"
     },
     {
-      "name": "Dammit",
-      "artist": "Suds Coleman",
-      "mp3": "/sounds/Dammit.mp3"
+      "name": "screamLaugh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_screamLaugh.mp3"
     },
     {
-      "name": "Do do do do",
-      "artist": "",
-      "mp3": "/sounds/Do-do-do-do.mp3"
+      "name": "screamLaugh2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_screamLaugh2.mp3"
     },
     {
-      "name": "Don't take any bullshit",
-      "artist": "Purim Lady",
-      "mp3": "/sounds/Don't-take-any-bullshit.mp3"
+      "name": "sfx1",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx1.mp3"
     },
     {
-      "name": "Doy Doy Doy",
-      "artist": "Boca Britany Somers",
-      "mp3": "/sounds/Doy-Doy-Doy.mp3"
+      "name": "sfx10",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx10.mp3"
     },
     {
-      "name": "Dumb Son Of A Bitch",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Dumb-Son-Of-A-Bitch.mp3"
+      "name": "sfx11",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx11.mp3"
     },
     {
-      "name": "Dying over here",
-      "artist": "",
-      "mp3": "/sounds/Dying-over-here.mp3"
+      "name": "sfx12",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx12.mp3"
     },
     {
-      "name": "Eisner!",
-      "artist": "Mickey Mouse",
-      "mp3": "/sounds/Mickey-Eisner.mp3"
+      "name": "sfx13",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx13.mp3"
     },
     {
-      "name": "Ewww!",
-      "artist": "",
-      "mp3": "/sounds/Ewww!.mp3"
+      "name": "sfx14",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx14.mp3"
     },
     {
-      "name": "Fart",
-      "artist": "",
-      "mp3": "/sounds/Fart.mp3"
+      "name": "sfx15",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx15.mp3"
     },
     {
-      "name": "Fart 2",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/Fart 2.mp3"
+      "name": "sfx16",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx16.mp3"
     },
     {
-      "name": "Firefighters Hoses In Hand",
-      "artist": "",
-      "mp3": "/sounds/Firefighters-Hoses-In-Hand.mp3"
+      "name": "sfx17",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx17.mp3"
     },
     {
-      "name": "Florida's Pots Not Good, Its Great",
-      "artist": "Tom Hopkins",
-      "mp3": "/sounds/Floridas-Pot.mp3"
+      "name": "sfx18",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx18.mp3"
     },
     {
-      "name": "Floridians dumb as dirt",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Floridians-Dumb-as-dirt.mp3"
+      "name": "sfx19",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx19.mp3"
     },
     {
-      "name": "Frosty Nads",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Frosty-Nads.mp3"
+      "name": "sfx2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx2.mp3"
     },
     {
-      "name": "Get off your duff",
-      "artist": "Lenny Martez",
-      "mp3": "/sounds/Get-off-your-duff.mp3"
+      "name": "sfx20",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx20.mp3"
     },
     {
-      "name": "Get the Honey Junior",
-      "artist": "Dominick DiNapoli",
-      "mp3": "/sounds/Get-the-Honey-Junior.mp3"
+      "name": "sfx21",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx21.mp3"
     },
     {
-      "name": "Get the hoover out the moon man",
-      "artist": "",
-      "mp3": "/sounds/Get-the-Hoover-out-the-moon-man.mp3"
+      "name": "sfx22",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx22.mp3"
     },
     {
-      "name": "Gilbert shut up",
-      "artist": "",
-      "mp3": "/sounds/Gilbert-shut-up.mp3"
+      "name": "sfx23",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx23.mp3"
     },
     {
-      "name": "Good Morning Americans It's Friday",
-      "artist": "Paul Harvey",
-      "mp3": "/sounds/Good-Morning-Americans-It's-Friday.mp3"
+      "name": "sfx24",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx24.mp3"
     },
     {
-      "name": "Greg Hates You",
-      "artist": "",
-      "mp3": "/sounds/Greg-Hates-You.mp3"
+      "name": "sfx25",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx25.mp3"
     },
     {
-      "name": "Handsome young man",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Handsome-young-man.mp3"
+      "name": "sfx26",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx26.mp3"
     },
     {
-      "name": "Hank Laughing",
-      "artist": "Hank Goldberg",
-      "mp3": "/sounds/Hank-laughing.mp3"
+      "name": "sfx27",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx27.mp3"
     },
     {
-      "name": "Happy Birthday",
-      "artist": "",
-      "mp3": "/sounds/Happy-Birthday.mp3"
+      "name": "sfx28",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx28.mp3"
     },
     {
-      "name": "Happy Purim",
-      "artist": "Thanks for Calling Lady",
-      "mp3": "/sounds/Happy-Purim.mp3"
+      "name": "sfx29",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx29.mp3"
     },
     {
-      "name": "Hates Him Like Poison",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/Hates-Him-Like-Poison.mp3"
+      "name": "sfx3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx3.mp3"
     },
     {
-      "name": "Have a Nice Day",
-      "artist": "Sandy Payton",
-      "mp3": "/sounds/Have-a-Nice-Day.mp3"
+      "name": "sfx30",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx30.mp3"
     },
     {
-      "name": "He Can't Sing For",
-      "artist": "",
-      "mp3": "/sounds/He-Can't-Sing-For.mp3"
+      "name": "sfx31",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx31.mp3"
     },
     {
-      "name": "He Died?",
-      "artist": "Manny Medina",
-      "mp3": "/sounds/He-Died.mp3"
+      "name": "sfx32",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx32.mp3"
     },
     {
-      "name": "He Was His Ward",
-      "artist": "Hank Goldberg",
-      "mp3": "/sounds/He-Was-His-Ward.mp3"
+      "name": "sfx33",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx33.mp3"
     },
     {
-      "name": "He has a wife ya know",
-      "artist": "Monty Python",
-      "mp3": "/sounds/He-has-a-wife-ya-know.mp3"
+      "name": "sfx34",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx34.mp3"
     },
     {
-      "name": "He is a stud",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/He-is-a-stud.mp3"
+      "name": "sfx35",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx35.mp3"
     },
     {
-      "name": "He's an agent provocateur",
-      "artist": "Dick Fatherly",
-      "mp3": "/sounds/He's-an-agent-provocateur.mp3"
+      "name": "sfx36",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx36.mp3"
     },
     {
-      "name": "Hey stupid",
-      "artist": "Hank Goldberg",
-      "mp3": "/sounds/Hey-stupid.mp3"
+      "name": "sfx37",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx37.mp3"
     },
     {
-      "name": "Hi Ya Pallie",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/Hi-Ya-Pallie.mp3"
+      "name": "sfx38",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/botan_sfx38.mp3"
     },
     {
-      "name": "Hi this is Sonny Fox",
-      "artist": "Sonny Fox",
-      "mp3": "/sounds/Hi-this-is-Sonny-Fox.mp3"
+      "name": "sfx39",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/botan_sfx39.mp3"
     },
     {
-      "name": "Holy Cow Erin's coming",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Holy-Cow-Erins-coming.mp3"
+      "name": "sfx4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx4.mp3"
     },
     {
-      "name": "Holy Mackinaw",
-      "artist": "Joe Bowen",
-      "mp3": "/sounds/Holy-Mackinaw.mp3"
+      "name": "sfx40",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx40.mp3"
     },
     {
-      "name": "How dare you?",
-      "artist": "",
-      "mp3": "/sounds/How-dare-you.mp3"
+      "name": "sfx41",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx41.mp3"
     },
     {
-      "name": "How young is too young?",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/How-young-is-too-young_Q.mp3"
+      "name": "sfx42",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx42.mp3"
     },
     {
-      "name": "I Don't Believe It",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/I-Don't-Believe-It.mp3"
+      "name": "sfx43",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx43.mp3"
     },
     {
-      "name": "I Don't Do my Job as Well When I'm Constipated",
-      "artist": "",
-      "mp3": "/sounds/Constipated.mp3"
+      "name": "sfx44",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx44.mp3"
     },
     {
-      "name": "I Don't Know",
-      "artist": "",
-      "mp3": "/sounds/I-Don't-Know.mp3"
+      "name": "sfx45",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx45.mp3"
     },
     {
-      "name": "I Don't Know What It Is, But It's Moving",
-      "artist": "",
-      "mp3": "/sounds/I-Don't-Know-What-It-Is-But-It's-Moving.mp3"
+      "name": "sfx46",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx46.mp3"
     },
     {
-      "name": "I Had One In My Mouth Once",
-      "artist": "Karen Kay",
-      "mp3": "/sounds/I-Had-One-In-My-Mouth-Once.mp3"
+      "name": "sfx47",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx47.mp3"
     },
     {
-      "name": "I Have No Cavities I Have No Teeth",
-      "artist": "",
-      "mp3": "/sounds/I-Have-No-Cavities....mp3"
+      "name": "sfx48",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx48.mp3"
     },
     {
-      "name": "I Have No Foreskin",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/I-Have-No-Foreskin.mp3"
+      "name": "sfx49",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx49.mp3"
     },
     {
-      "name": "I Have No Life",
-      "artist": "",
-      "mp3": "/sounds/I-Have-No-Life.mp3"
+      "name": "sfx5",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx5.mp3"
     },
     {
-      "name": "I I I I I",
-      "artist": "",
-      "mp3": "/sounds/I-I-I-I-I.mp3"
+      "name": "sfx50",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx50.mp3"
     },
     {
-      "name": "I Like it",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/I-Like-it.mp3"
+      "name": "sfx51",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx51.mp3"
     },
     {
-      "name": "I Like the Wee Wee",
-      "artist": "Joe Rose",
-      "mp3": "/sounds/I-Like-the-Wee-Wee.mp3"
+      "name": "sfx52",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx52.mp3"
     },
     {
-      "name": "I Need Some Action",
-      "artist": "Gilbert Solomon",
-      "mp3": "/sounds/I-Need-Some-Action.mp3"
+      "name": "sfx53",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx53.mp3"
     },
     {
-      "name": "I Pooped My Pants",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/I-Pooped-My-Pants.mp3"
+      "name": "sfx54",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx54.mp3"
     },
     {
-      "name": "I Wanna Give You A Kiss",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/I-Wanna-Give-You-A-Kiss.mp3"
+      "name": "sfx55",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx55.mp3"
     },
     {
-      "name": "I am not trying to seduce you",
-      "artist": "Gilbert Solomon",
-      "mp3": "/sounds/Gilbert-Seduce.mp3"
+      "name": "sfx56",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx56.mp3"
     },
     {
-      "name": "I had nuttin to do with that",
-      "artist": "Larry King",
-      "mp3": "/sounds/I-had-nuttin-to-do-with-that.mp3"
+      "name": "sfx57",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx57.mp3"
     },
     {
-      "name": "I have just tasted your snapper",
-      "artist": "Henry Barrow",
-      "mp3": "/sounds/I-Have-just-tasted-your-snapper.mp3"
+      "name": "sfx58",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx58.mp3"
     },
     {
-      "name": "I just wasn't conscious",
-      "artist": "Don Shula",
-      "mp3": "/sounds/I-just-wasn't-conscious.mp3"
+      "name": "sfx59",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx59.mp3"
     },
     {
-      "name": "I know how to do a talk show",
-      "artist": "Larry King",
-      "mp3": "/sounds/I-know-how-to-do-a-talk-show.mp3"
+      "name": "sfx6",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx6.mp3"
     },
     {
-      "name": "I must be crazy I must be nuts",
-      "artist": "John Henry",
-      "mp3": "/sounds/I-must-be-crazy-I-must-be-nuts.mp3"
+      "name": "sfx60",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx60.mp3"
     },
     {
-      "name": "I'm Dying Over Here",
-      "artist": "",
-      "mp3": "/sounds/I'm-Dying-Over-Here.mp3"
+      "name": "sfx61",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx61.mp3"
     },
     {
-      "name": "I'm Dying Over Here (Child)",
-      "artist": "",
-      "mp3": "/sounds/I'm-Dying-Over-Here-(Child).mp3"
+      "name": "sfx62",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx62.mp3"
     },
     {
-      "name": "I'm Listening",
-      "artist": "Moe Howard",
-      "mp3": "/sounds/I'm-Listening.mp3"
+      "name": "sfx63",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx63.mp3"
     },
     {
-      "name": "I'm a fat jew",
-      "artist": "Al Goldstein",
-      "mp3": "/sounds/I'm-a-fat-jew.mp3"
+      "name": "sfx64",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx64.mp3"
     },
     {
-      "name": "Idiotic jerk",
-      "artist": "Old Boat Dude",
-      "mp3": "/sounds/Idiotic-jerk.mp3"
+      "name": "sfx65",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx65.mp3"
     },
     {
-      "name": "If You Blow Too Much",
-      "artist": "Teri Griffin",
-      "mp3": "/sounds/If-You-Blow-Too-Much.mp3"
+      "name": "sfx66",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx66.mp3"
     },
     {
-      "name": "It Just Keeps Getting Bigger",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/It-Just-Keeps-Getting-Bigger.mp3"
+      "name": "sfx67",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx67.mp3"
     },
     {
-      "name": "It felt like a prick",
-      "artist": "News sound bite",
-      "mp3": "/sounds/It-felt-like-a-prick.mp3"
+      "name": "sfx7",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx7.mp3"
     },
     {
-      "name": "It is So Hard",
-      "artist": "",
-      "mp3": "/sounds/It-is-So-Hard.mp3"
+      "name": "sfx8",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx8.mp3"
     },
     {
-      "name": "It takes forever to get the taste and smell out of your system",
-      "artist": "Henry Barrow",
-      "mp3": "/sounds/It-takes-forever-to-get-the-taste....mp3"
+      "name": "sfx9",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sfx9.mp3"
     },
     {
-      "name": "It's A Good Time For The Great Taste",
-      "artist": "Don \"Noodles\" Agony",
-      "mp3": "/sounds/It's-A-Good-Time-For-The-Great-Taste-Long.mp3"
+      "name": "sigh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_sigh.mp3"
     },
     {
-      "name": "It's Terrible",
-      "artist": "",
-      "mp3": "/sounds/Terrible.mp3"
+      "name": "singing",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_singing.mp3"
     },
     {
-      "name": "It's moving",
-      "artist": "",
-      "mp3": "/sounds/It's-moving.mp3"
+      "name": "stress",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_stress.mp3"
     },
     {
-      "name": "It's the 1 to 2 hour burp",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/It's-the-1-to-2-hour-burp.mp3"
+      "name": "woooo",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_woooo.mp3"
     },
     {
-      "name": "Its Big Neil, Bigger than Both Of Us",
-      "artist": "Regis Philbin",
-      "mp3": "/sounds/It's-Big-Neil-Bigger-than-Both-Of-Us.mp3"
+      "name": "yayyy",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Botan_yayyy.mp3"
     },
     {
-      "name": "Just tell me what your problem is",
-      "artist": "Steve Kane",
-      "mp3": "/sounds/Just-tell-me-what-your-problem-is.mp3"
+      "name": "Chikusoo",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Chikusoo.mp3"
     },
     {
-      "name": "Laugh Brooke",
-      "artist": "Brooke Daniels",
-      "mp3": "/sounds/Laugh-Brooke.mp3"
+      "name": "Coffee break",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Coffee_break.mp3"
     },
     {
-      "name": "Laugh Gilbert",
-      "artist": "Gilbert Solomon",
-      "mp3": "/sounds/Laugh-Gilbert.mp3"
+      "name": "doggo Botan",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/doggo_Botan.mp3"
     },
     {
-      "name": "Laugh Goofy",
-      "artist": "",
-      "mp3": "/sounds/Laugh-Goofy.mp3"
+      "name": "doggo Botan2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/doggo_Botan2.mp3"
     },
     {
-      "name": "Laugh Montage",
-      "artist": "Gilbert/Brooke Daniels",
-      "mp3": "/sounds/Laugh-Montage.mp3"
+      "name": "dokoishoo",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/dokoishoo.mp3"
     },
     {
-      "name": "Lightning Round Buzzer",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/Lightning-Round-Buzzer.mp3"
+      "name": "Eiish",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Eiish.mp3"
     },
     {
-      "name": "Loan me 50 Dollars",
-      "artist": "Larry King",
-      "mp3": "/sounds/Loan-me-50-Dollars.mp3"
+      "name": "fuwa",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/fuwa.mp3"
     },
     {
-      "name": "Looking For Glory Holes",
-      "artist": "Al Goldstein",
-      "mp3": "/sounds/Looking-For-Glory-Holes.mp3"
+      "name": "hai hai hai",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hai hai hai.mp3"
     },
     {
-      "name": "Me So Horny",
-      "artist": "Larry King",
-      "mp3": "/sounds/Me-so-horny.mp3"
+      "name": "Hai hai hai2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hai hai hai2.mp3"
     },
     {
-      "name": "Men in chains...",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Men-in-chains....mp3"
+      "name": "Hai2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hai2.mp3"
     },
     {
-      "name": "My God is that thing real?",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/My-God-is-that-thing-real.mp3"
+      "name": "Hai3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hai3.mp3"
     },
     {
-      "name": "My Oh My",
-      "artist": "Remus - Hazardous Comedy Network",
-      "mp3": "/sounds/Remus-My-Oh-My.mp3"
+      "name": "Hai4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hai4.mp3"
     },
     {
-      "name": "Neil GOD Epic",
-      "artist": "",
-      "mp3": "/sounds/Neil-GOD-Epic.mp3"
+      "name": "Haii",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Haii.mp3"
     },
     {
-      "name": "Neil God",
-      "artist": "",
-      "mp3": "/sounds/Neil-God.mp3"
+      "name": "heavy breathing",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/heavy_breathing.mp3"
     },
     {
-      "name": "Neil God (Erin Somers)",
-      "artist": "Erin Somers",
-      "mp3": "/sounds/Neil-GOD-Erin.mp3"
+      "name": "Heyy",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Heyy.mp3"
     },
     {
-      "name": "Neil God (Randy West)",
-      "artist": "Randy West",
-      "mp3": "/sounds/Neil-God-Randy.mp3"
+      "name": "heyy2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/heyy2.mp3"
     },
     {
-      "name": "Neil Howard Dean Scream",
-      "artist": "Howard Dean",
-      "mp3": "/sounds/howard-dean-scream.mp3"
+      "name": "Heyy3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Heyy3.mp3"
     },
     {
-      "name": "Neil Rogers God",
-      "artist": "Larry King",
-      "mp3": "/sounds/Neil-Rogers-God.mp3"
+      "name": "Ho",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Ho.mp3"
     },
     {
-      "name": "Neil screams",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/Neil-screams.mp3"
+      "name": "hoi",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hoi.mp3"
     },
     {
-      "name": "No",
-      "artist": "Buffalo Bill - Jame Gumb",
-      "mp3": "/sounds/No-Buffalo-Bill.mp3"
+      "name": "Hoi2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hoi2.mp3"
     },
     {
-      "name": "No",
-      "artist": "Drew Michaels",
-      "mp3": "/sounds/No.mp3"
+      "name": "hoi3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hoi3.mp3"
     },
     {
-      "name": "No More Sucking, Please",
-      "artist": "Dave Graveline",
-      "mp3": "/sounds/No-More-Sucking-Please.mp3"
+      "name": "Hoi4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hoi4.mp3"
     },
     {
-      "name": "No repeated",
-      "artist": "",
-      "mp3": "/sounds/No-repeated.mp3"
+      "name": "hoishoo",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hoishoo.mp3"
     },
     {
-      "name": "No! King",
-      "artist": "Larry King",
-      "mp3": "/sounds/No!-King.mp3"
+      "name": "Hoishoo2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hoishoo2.mp3"
     },
     {
-      "name": "Not That You Have To Suck",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Not-That-You-Have-To-Suck.mp3"
+      "name": "hop",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hop.mp3"
     },
     {
-      "name": "OH, as in the Big O",
-      "artist": "",
-      "mp3": "/sounds/OH-as-in-the-Big.mp3"
+      "name": "Hop10",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hop10.mp3"
     },
     {
-      "name": "OK Drew",
-      "artist": "Drew Michaels",
-      "mp3": "/sounds/OK-Drew.mp3"
+      "name": "hop11",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hop11.mp3"
     },
     {
-      "name": "OK Hendrie",
-      "artist": "Phil Hendrie",
-      "mp3": "/sounds/OK-Hendrie.mp3"
+      "name": "hop2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hop2.mp3"
     },
     {
-      "name": "OK Randi",
-      "artist": "Randi Rhodes",
-      "mp3": "/sounds/OK-Randi.mp3"
+      "name": "hop3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hop3.mp3"
     },
     {
-      "name": "OK Ferrall",
-      "artist": "Scott Ferrall",
-      "mp3": "/sounds/OK-Ferrall.mp3"
+      "name": "hop4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hop4.mp3"
     },
     {
-      "name": "Oh Alanzo you're so big",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Oh-Alanzo-you're-so-big.mp3"
+      "name": "Hop5",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hop5.mp3"
     },
     {
-      "name": "Oh I'm Real Excited",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Jennifer-Is-Excited.mp3"
+      "name": "Hop6",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hop6.mp3"
     },
     {
-      "name": "Oh Ma God",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Oh-Ma-God.mp3"
+      "name": "Hop7",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hop7.mp3"
     },
     {
-      "name": "Oh My God",
-      "artist": "Old Lady",
-      "mp3": "/sounds/Oh-My-God.mp3"
+      "name": "hop8",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hop8.mp3"
     },
     {
-      "name": "Oh My God younger",
-      "artist": "Younger Woman",
-      "mp3": "/sounds/Oh-My-God-younger.mp3"
+      "name": "hop9",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/hop9.mp3"
     },
     {
-      "name": "Oh Neil my Queen God",
-      "artist": "",
-      "mp3": "/sounds/Oh-Neil-my-Queen-God.mp3"
+      "name": "Hop tei",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Hop_tei.mp3"
     },
     {
-      "name": "Oh Yeah",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Oh-Yeah.mp3"
+      "name": "iikeee",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/iikeee.mp3"
     },
     {
-      "name": "Oh man!",
-      "artist": "",
-      "mp3": "/sounds/Oh-man!.mp3"
+      "name": "Iiyo",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Iiyo.mp3"
     },
     {
-      "name": "Oh we're fine",
-      "artist": "Dan Stewart",
-      "mp3": "/sounds/Oh-we're-fine.mp3"
+      "name": "Ikeee2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Ikeee2.mp3"
     },
     {
-      "name": "Oh!",
-      "artist": "Drew Michaels",
-      "mp3": "/sounds/Oh!.mp3"
+      "name": "ikeee3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/ikeee3.mp3"
     },
     {
-      "name": "Ohh!",
-      "artist": "Andrew Dice Clay",
-      "mp3": "/sounds/Ohh!.mp3"
+      "name": "Ikeeee",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Ikeeee.mp3"
     },
     {
-      "name": "Only in the Banana Republic",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Only-in-the-Banana-Republic.mp3"
+      "name": "Ikeru",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Ikeru.mp3"
     },
     {
-      "name": "Outrageous",
-      "artist": "Bill Clinton",
-      "mp3": "/sounds/Outrageous.mp3"
+      "name": "Ikuzoo",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Ikuzoo.mp3"
     },
     {
-      "name": "Oy!",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/Oy!.mp3"
+      "name": "iyada shinitakunai",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/iyada_shinitakunai.mp3"
     },
     {
-      "name": "Packwood can't keep his pecker in his pants",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Packwood....mp3"
+      "name": "koko muzuina",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/koko_muzuina.mp3"
     },
     {
-      "name": "Pig snort",
-      "artist": "",
-      "mp3": "/sounds/Pig-snort.mp3"
+      "name": "kusoo",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/kusoo.mp3"
     },
     {
-      "name": "Pissed off gets me fired up",
-      "artist": "",
-      "mp3": "/sounds/Pissed-off-gets-me-fired-up.mp3"
+      "name": "laugh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/laugh.mp3"
     },
     {
-      "name": "Planet where apes evolve from men",
-      "artist": "",
-      "mp3": "/sounds/Planet-where-apes-evolve-from-men.mp3"
+      "name": "laugh2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/laugh2.mp3"
     },
     {
-      "name": "Play Something Already",
-      "artist": "",
-      "mp3": "/sounds/Play-Something-Already.mp3"
+      "name": "laugh3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/laugh3.mp3"
     },
     {
-      "name": "Please Enough Sucking",
-      "artist": "",
-      "mp3": "/sounds/Please-Enough-Sucking.mp3"
+      "name": "laugh4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/laugh4.mp3"
     },
     {
-      "name": "Please don't say the F word",
-      "artist": "",
-      "mp3": "/sounds/Please-dont-say-the-f-word.mp3"
+      "name": "laugh5",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/laugh5.mp3"
     },
     {
-      "name": "Puke",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/Puke.mp3"
+      "name": "laugh6",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/laugh6.mp3"
     },
     {
-      "name": "Rap On It All Year Long",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Rap-on-it-All-Year-Long.mp3"
+      "name": "laugh7",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/laugh7.mp3"
     },
     {
-      "name": "Rectum",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/Rectum.mp3"
+      "name": "Laugh8",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Laugh8.mp3"
     },
     {
-      "name": "Rectum damn near killed em",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/Rectum-damn-near-killed-em.mp3"
+      "name": "laugh9",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/laugh9.mp3"
     },
     {
-      "name": "Rock Solid",
-      "artist": "Orlando Alzugaray",
-      "mp3": "/sounds/Rock-solid.mp3"
+      "name": "Mama i dont wanna die",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Mama_i dont wanna die.mp3"
     },
     {
-      "name": "Roy!",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/Roy!.mp3"
+      "name": "Nandeyoooo",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Nandeyoooo.mp3"
     },
     {
-      "name": "Sales People Are Ice-Holes",
-      "artist": "Mitch Lewis",
-      "mp3": "/sounds/Sales-People-Are-Ice-Holes.mp3"
+      "name": "nani ga fuuja",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/nani ga fuuja.mp3"
     },
     {
-      "name": "Scream",
-      "artist": "",
-      "mp3": "/sounds/Scream.mp3"
+      "name": "nono laugh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/nono_laugh.mp3"
     },
     {
-      "name": "Sheik Laugh",
-      "artist": "",
-      "mp3": "/sounds/Sheik-Laugh.mp3"
+      "name": "oisho",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/oisho.mp3"
     },
     {
-      "name": "Shoot Them in the Leg",
-      "artist": "",
-      "mp3": "/sounds/Shoot-Them-In-The-Leg.mp3"
+      "name": "Oisho2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Oisho2.mp3"
     },
     {
-      "name": "Sister Mary Catherine Jesus",
-      "artist": "",
-      "mp3": "/sounds/Sister-Mary-Catherine-Jesus.mp3"
+      "name": "oisho3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/oisho3.mp3"
     },
     {
-      "name": "Spread Em And Say Cheese",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Spread-Em-And-Say-Cheese.mp3"
+      "name": "oisho4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/oisho4.mp3"
     },
     {
-      "name": "Squirt squirt",
-      "artist": "Mike Reineri",
-      "mp3": "/sounds/Squirt-Squirt.mp3"
+      "name": "Oraa",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Oraa.mp3"
     },
     {
-      "name": "Start Lickin'",
-      "artist": "Suds Coleman",
-      "mp3": "/sounds/Start-Lickin.mp3"
+      "name": "Oraa2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Oraa2.mp3"
     },
     {
-      "name": "Suck it in and Hold It",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Suck-it-in-and-Hold-It.mp3"
+      "name": "Oraa3",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Oraa3.mp3"
     },
     {
-      "name": "Tears Your Kishkehs Out",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/Tears-Your-Kishkehs-Out.mp3"
+      "name": "oraa4",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/oraa4.mp3"
     },
     {
-      "name": "Thanks for calling",
-      "artist": "Happy Purim Lady",
-      "mp3": "/sounds/Thanks-for-calling.mp3"
+      "name": "oraa5",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/oraa5.mp3"
     },
     {
-      "name": "That is Great Radio",
-      "artist": "Larry King",
-      "mp3": "/sounds/That-is-Great-Radio.mp3"
+      "name": "Oraa6",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Oraa6.mp3"
     },
     {
-      "name": "That was a 2 hr BJ",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/That-was-a-2-hr-bj.mp3"
+      "name": "oraa7",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/oraa7.mp3"
     },
     {
-      "name": "That's My Opinion",
-      "artist": "Mike Disney",
-      "mp3": "/sounds/That's-My-Opinion.mp3"
+      "name": "oraa8",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/oraa8.mp3"
     },
     {
-      "name": "The Media is Sick",
-      "artist": "Tammy Faye Bakker",
-      "mp3": "/sounds/The-Media-is-Sick.mp3"
+      "name": "Oraa9",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Oraa9.mp3"
     },
     {
-      "name": "The sky is falling",
-      "artist": "",
-      "mp3": "/sounds/The-sky-is-falling.mp3"
+      "name": "Panik Botan",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Panik_Botan.mp3"
     },
     {
-      "name": "They Don't Come Any Better (Gilbert)",
-      "artist": "Gilbert Solomon",
-      "mp3": "/sounds/They Don't Come Any Better (Gilbert).mp3"
+      "name": "pfft",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/pfft.mp3"
     },
     {
-      "name": "They Stunk",
-      "artist": "Jeff Rimer",
-      "mp3": "/sounds/They-Stunk.mp3"
+      "name": "poi",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/poi.mp3"
     },
     {
-      "name": "This Station Stands For Nothing",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/This-Station-Stands-For-Nothing.mp3"
+      "name": "psh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/psh.mp3"
     },
     {
-      "name": "This is the most disgusting program",
-      "artist": "",
-      "mp3": "/sounds/This-is-the-most-disgusting-program.mp3"
+      "name": "sad laugh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/sad laugh.mp3"
     },
     {
-      "name": "Those Are Real Men",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Those-Are-Real-Men.mp3"
+      "name": "sad botan",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/sad_botan.mp3"
     },
     {
-      "name": "UNNbelievable",
-      "artist": "",
-      "mp3": "/sounds/UNNbelievable.mp3"
+      "name": "sniff",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/sniff.mp3"
     },
     {
-      "name": "Uh huh",
-      "artist": "Bob Lassiter",
-      "mp3": "/sounds/Uh-huh-Lassiter.mp3"
+      "name": "tariinai",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/tariinai.mp3"
     },
     {
-      "name": "Uh huh King",
-      "artist": "Larry King",
-      "mp3": "/sounds/Uh-huh-King.mp3"
+      "name": "teii",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/teii.mp3"
     },
     {
-      "name": "Want a lolipop little boy?",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Want-a-lolipop-little-boy_Q.mp3"
+      "name": "uniqueLine",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/uniqueLine.mp3"
     },
     {
-      "name": "We're Looking at Ten Inches",
-      "artist": "Jackie Bales",
-      "mp3": "/sounds/We're-looking-at-ten-inches.mp3"
+      "name": "Uniqueline2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Uniqueline2.mp3"
     },
     {
-      "name": "We're Number 1",
-      "artist": "",
-      "mp3": "/sounds/We're-Number-1.mp3"
+      "name": "wooo laugh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/wooo_laugh.mp3"
     },
     {
-      "name": "Well Awriiight Sports Fans",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Well-Awriiight-Sports-Fans.mp3"
+      "name": "yamete",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/yamete.mp3"
     },
     {
-      "name": "Well Yehaw!",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Jennifer-Rehm-Yehaw.mp3"
+      "name": "Yamete2",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/Yamete2.mp3"
     },
     {
-      "name": "What's Your Question?",
-      "artist": "Larry King",
-      "mp3": "/sounds/What's-your-question.mp3"
-    },
-    {
-      "name": "Where's The List?",
-      "artist": "",
-      "mp3": "/sounds/Where's-the-List.mp3"
-    },
-    {
-      "name": "Who the hell are you?",
-      "artist": "",
-      "mp3": "/sounds/Who-the-hell-are-you_Q.mp3"
-    },
-    {
-      "name": "Why (Kerrigan)",
-      "artist": "Nancy Kerrigan",
-      "mp3": "/sounds/Why-(kerrigan).mp3"
-    },
-    {
-      "name": "Won't see him no more",
-      "artist": "Neil Rogers",
-      "mp3": "/sounds/Won't-see-him-no-more.mp3"
-    },
-    {
-      "name": "Worst Talk Radio I Ever Heard",
-      "artist": "Larry King",
-      "mp3": "/sounds/Worst-Talk Radio-I-Ever-Heard.mp3"
-    },
-    {
-      "name": "Y O",
-      "artist": "",
-      "mp3": "/sounds/Y-O.mp3"
-    },
-    {
-      "name": "Ya mon!",
-      "artist": "",
-      "mp3": "/sounds/Ya-mon!.mp3"
-    },
-    {
-      "name": "Yank it baby",
-      "artist": "Jennifer Rehm",
-      "mp3": "/sounds/Yank-it-baby.mp3"
-    },
-    {
-      "name": "Yeeeeeeesss",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Yeeeeeeesss.mp3"
-    },
-    {
-      "name": "Yes",
-      "artist": "Buffalo Bill - Jame Gumb",
-      "mp3": "/sounds/Yes-Buffalo-Bill.mp3"
-    },
-    {
-      "name": "Yes! Mandich",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Yes!-Mandich.mp3"
-    },
-    {
-      "name": "Yo man what's up with your gantzeh mishpocha",
-      "artist": "Dave Cook",
-      "mp3": "/sounds/What's-up-with-your-gantzeh-mishpocha_Q.mp3"
-    },
-    {
-      "name": "You Jackass",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/You-Jackass.mp3"
-    },
-    {
-      "name": "You Know Fat Rich Reminds Me of My Mother",
-      "artist": "Paul Harvey Jr.",
-      "mp3": "/sounds/You-Know-Fat-Rich-Reminds.mp3"
-    },
-    {
-      "name": "You Son of a Bitch",
-      "artist": "Charlton Heston",
-      "mp3": "/sounds/You-Son-of-a-Bitch.mp3"
-    },
-    {
-      "name": "You Thought That I Was Dumb and Stupid",
-      "artist": "Gilbert Solomon",
-      "mp3": "/sounds/You-Thought-That-I-Was-Dumb-and-Stupid.mp3"
-    },
-    {
-      "name": "You Turd",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/You-Turd.mp3"
-    },
-    {
-      "name": "You got to keep your Johnson straight here",
-      "artist": "Jim Mandich",
-      "mp3": "/sounds/Keep-your-johnson-straight.mp3"
-    },
-    {
-      "name": "You've Got To Stick Your Spoon In It",
-      "artist": "Bagpipe Player - SCN",
-      "mp3": "/sounds/You've-Got-To-Stick-Your-Spoon-In-It.mp3"
+      "name": "yosh",
+      "artist": "Shishiro Botan",
+      "mp3": "/sounds/yosh.mp3"
     }
   ]
 }
