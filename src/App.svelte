@@ -35,7 +35,17 @@
     color: rgb(1, 1, 59);
     font-size: 2em;
     font-weight: 100;
+    margin: 0;
     text-align: center;
+  }
+  h2 {
+    font-size: 1.3em;
+    font-weight: 100;
+    margin: 0;
+    text-align: center;
+  }
+  div {
+    margin: 0 auto;
   }
 </style>
 
@@ -44,14 +54,18 @@
 </svelte:head>
 <header>
   <h1>{name}</h1>
+  <h2>made possible by the endless contributions of the <a target="_blank" href="https://discord.gg/ynSShd8">SSRB fan discord</a></h2>
 </header>
 <main>
   <section>
-    <SoundSearch
+<!--     <SoundSearch
       bind:searchTerm
       on:updateSearch={() => {
         displayList = filterList(sounds, searchTerm);
-      }} />
+      }} /> -->
     <Soundboard bind:sounds={displayList} />
+  </section>
+  <section>
+    <p><a target="_blank" href="https://github.com/theabhishek2511/botan-rocks">view source on github</a> | powered by <a target="_blank" href="https://svelte.dev/">svelte</a>, <a target="_blank" href="https://www.netlify.com/">netlify</a> and <a target="_blank" href="https://www.cloudflare.com/">cloudflare</a> | <a target="_blank" href="https://twitter.com/omgitsnewton">site maintainer</a></p>
   </section>
 </main>
