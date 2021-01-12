@@ -58,10 +58,8 @@
   }
 </style>
 
-<svelte:head>
-  <title>{name}</title>
-  <Meta {metadata}/>
-</svelte:head>
+<Meta {metadata}/>
+
 <header>
   <h1>{name}</h1>
   <h2>made possible by the endless contributions of the <a target="_blank" href="https://discord.gg/ynSShd8">SSRB fan discord</a></h2>
