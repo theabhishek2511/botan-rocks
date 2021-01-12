@@ -2,11 +2,20 @@
   import { onMount } from "svelte";
   import Soundboard from "./Soundboard.svelte";
   import SoundSearch from "./SoundSearch.svelte";
+  import Meta from "./Meta.svelte"
   export let name;
 
   let searchTerm = "";
   let sounds = [];
   let displayList = [];
+
+  const metadata = {
+    title: 'botan.rocks - Your emergency Shishiro Botan noises button.',
+    description: '',
+    image: 'https://botan.rocks/ogp-thumbnail.png',
+    url:'https://botan.rocks/',
+    type:'website'
+  }
 
   onMount(async () => {
     const res = await fetch(`soundboard.json`);
@@ -51,24 +60,7 @@
 
 <svelte:head>
   <title>{name}</title>
-  <meta name="description" content="">
-
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://botan.rocks/">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="botan.rocks - Your emergency Shishiro Botan noises button.">
-  <meta property="og:description" content="">
-  <meta property="og:image" content="https://botan.rocks/ogp-thumbnail.png">
-
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="">
-  <meta property="twitter:url" content="https://botan.rocks/">
-  <meta name="twitter:title" content="botan.rocks - Your emergency Shishiro Botan noises button.">
-  <meta name="twitter:description" content="">
-  <meta name="twitter:image" content="https://botan.rocks/ogp-thumbnail.png">
-
-  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+  <Meta {metadata}/>
 </svelte:head>
 <header>
   <h1>{name}</h1>
