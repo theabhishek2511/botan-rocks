@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/git/botan-rocks",
+		"/D/git/botan-rocks/public",
+		"/D/git/botan-rocks/public/build",
+		"/D/git/botan-rocks/src"
+	],
+	"file_history":
+	[
+		"/D/git/botan-rocks/src/Meta.svelte",
+		"/D/git/botan-rocks/src/App.svelte",
+		"/D/git/botan-rocks/public/index.html",
+		"/D/git/nico-chat-browser/index.html",
+		"/D/git/botan-rocks/public/soundboard.json",
+		"/D/git/botan-rocks/src/main.js",
+		"/D/git/botan-rocks/public/mvp.css",
+		"/D/git/botan-rocks/README.md",
+		"/D/git/botan-rocks/.gitignore",
+		"/D/git/botan-rocks/package.json",
+		"/D/git/Simple-Soundboard-master/index.html",
+		"/D/git/Simple-Soundboard-master/inc/json/soundboard.json",
+		"/D/git/Simple-Soundboard-master/node/json_filename.js",
+		"/D/git/Simple-Soundboard-master/node/config/config.js",
+		"/D/git/Simple-Soundboard-master/README.md",
+		"/C/Windows/Temp/NvidiaLogs/LOG.setup.exe.log",
+		"/D/Uncategorized Dump/VGA_NVIDIA_Win10_64_V2521142546/setup.bat",
+		"/C/UkLog.dat",
+		"/C/Program Files (x86)/Steam/steamapps/workshop/content/431960/824780831/project.json",
+		"/D/Origin/Need For Speed Heat/user.cfg",
+		"/D/Game Utilities/miqobot/catnip.license3",
+		"/C/Users/Newton/Desktop/Genshin Impact.bat",
+		"/C/Users/Newton/Desktop/following.js",
+		"/C/Program Files (x86)/Steam/steamapps/common/FINAL FANTASY XIV Online/game/ffxivgame.bck",
+		"/C/Program Files (x86)/Steam/steamapps/common/FINAL FANTASY XIV Online/game/ffxivgame.ver",
+		"/C/Users/Newton/Desktop/Duality.txt",
+		"/C/Users/Newton/Desktop/Duality.html",
+		"/C/Users/Newton/AppData/Local/Packages/pythonsoftwarefoundation.python.3.8_qbz5n2kfra8p0/localcache/local-packages/Python38/site-packages/ffmpeg/__init__.py",
+		"/C/Users/Newton/AppData/Local/Packages/pythonsoftwarefoundation.python.3.8_qbz5n2kfra8p0/localcache/local-packages/Python38/site-packages/ffmpeg/audio.py",
+		"/C/Users/Newton/deepfake/first-order-model-master/config/vox-256.yaml",
+		"/C/Users/Newton/deepfake/first-order-model-master/config/taichi-256.yaml",
+		"/C/Users/Newton/Desktop/fireaxe.vpk",
+		"/C/Users/Newton/Downloads/Marauder/models/doom_eternal/demons/marauder.mdl",
+		"/D/Program Files/ModifiableWindowsApps/pso2_bin/GShade.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/FINAL FANTASY XIV Online/game/GShade.ini",
+		"/D/Uncategorized Dump/softwares/NVRTXVoice/NvAFX/RTXVoice.nvi",
+		"/C/Users/Newton/AppData/Roaming/XIVLauncher/launcherConfigV3.json",
+		"/D/Uncategorized Dump/twitter-2020-03-06-be25daaf4374c964012be575e72e9151011bb733b37564a0c3d39d82c68c5a22/tweet.js",
+		"/D/Uncategorized Dump/twitter-2020-03-06-be25daaf4374c964012be575e72e9151011bb733b37564a0c3d39d82c68c5a22/following.js",
+		"/D/Misc Games/rpcs3/GuiConfigs/CurrentSettings.ini",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Newton/Desktop/New AutoHotkey Script.ahk",
+		"/C/Users/Newton/Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/FFXIV_CHR004000174B4D1FB1/log/00000002.log",
+		"/C/Users/Newton/Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/FFXIV_CHR004000174B250FFB/log/00000000.log",
+		"/C/Users/Newton/Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/FFXIV_CHR004000174B3B1255/log/00000090.log",
+		"/C/Users/Newton/Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/FFXIV_CHR004000174B250FFB/log/00000007.log",
+		"/C/Users/Newton/Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/FFXIV_CHR004000174B250FFB/log/00000134.log",
+		"/D/Game Utilities/miqobot/presets.miqo",
+		"/D/Game Utilities/miqobot/catnip.license",
+		"/C/Users/Newton/Downloads/collectible.txt",
+		"/D/SteamLibrary/steamapps/common/FINAL FANTASY XIV Online/game/reshade-presets/GShade/YurianPhotoRealismBase.ini",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/raidboss/data/00-misc/general.js",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/raidboss/data/05-shb/raid/e4s.js",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/raidboss/data/triggers/e4s.js",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/raidboss/popup-text.js",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/raidboss/raidboss.js",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/raidboss/data/05-shb/raid/e1s.js",
+		"/D/Game Utilities/XIVLauncher/RichPresenceException.txt",
+		"/D/Game Utilities/XIVLauncher/XIVLauncher.exe.config",
+		"/C/Users/Newton/Desktop/raidboss.js",
+		"/C/Users/Newton/Desktop/housing (extreme).ahk",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/raidboss/data/timelines/test.txt",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/raidboss/data/timelines/seiryu-ex.txt",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Advanced Combat Tracker.exe.config",
+		"/C/Users/Newton/Downloads/cactbot-0.10.2/OverlayPlugin/cactbot/ui/raidboss/raidboss.js",
+		"/C/Program Files (x86)/Advanced Combat Tracker/ACTx86.exe.config",
+		"/C/Users/Newton/Desktop/test.ahk",
+		"/D/Torrents/Sony Vegas Pro 12 Build 770 (64 bit) (patch-keygen DI) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/C/Users/Newton/Downloads/cactbot-0.9.5/AdvancedCactbot.md",
+		"/C/Users/Newton/Desktop/jobs.js",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/ui/jobs/jobs.js",
+		"/C/Users/Newton/AppData/Roaming/Advanced Combat Tracker/FFXIVLogs/fflogsarchive/Network_20190311-archive-2019-03-11T19-05-13.434Z.log",
+		"/C/Users/Newton/Documents/dmc garbage code",
+		"/C/Users/Newton/Documents/dmc garbage code.txt",
+		"/C/Users/Newton/Downloads/cactbot-0.9.2/README.md",
+		"/C/Users/Newton/Downloads/cactbot-0.9.2/AdvancedCactbot.md",
+		"/D/Game Utilities/XIVLauncher/XIVLauncher.pdb",
+		"/D/SteamLibrary/steamapps/common/FINAL FANTASY XIV Online/game/movie/ex2/fileinfo.fiin",
+		"/C/Program Files (x86)/Advanced Combat Tracker/Plugins/OverlayPlugin/cactbot/user/jobs-example.js",
+		"/D/Uncategorized Dump/asdf.html",
+		"/C/Program Files (x86)/Steam/userdata/79814630/config/localconfig.vdf",
+		"/C/Program Files (x86)/Steam/userdata/79814630/config/serverbrowser_ui.vdf",
+		"/C/Program Files (x86)/Steam/userdata/84062598/config/controller_configs/personalization/a4538530118e/personalization.vdf",
+		"/C/Users/Newton/Downloads/asdf.html",
+		"/C/Program Files (x86)/Steam/config/config.vdf"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"margin",
+			"header",
+			"h1",
+			"align",
+			"artist",
+			"mp3",
+			"_",
+			"Botan_",
+			" ",
+			"botan_",
+			"_",
+			"botan_",
+			"-a----",
+			"  ",
+			" ",
+			"  ",
+			" ",
+			"\\nTTM",
+			" ",
+			"\\n\\n\\nTTM",
+			"\\nTTM",
+			" ",
+			"\t",
+			" ",
+			"/p ",
+			"[21:04](Apis FodinaTonberry)",
+			">",
+			"</a>",
+			"<a href=",
+			"</a>",
+			"href",
+			"\\n",
+			"mobile.",
+			"e-h",
+			"gsm",
+			"ltw",
+			"cul",
+			"alc",
+			"(Noelle NeigeKujata)",
+			"Noelle NeigeKujata)",
+			"userLink",
+			"Nascent Flash",
+			"2",
+			"You",
+			"tarakasur",
+			"2",
+			"1",
+			"bsm",
+			"arm",
+			"gsm",
+			"ltw",
+			"cul",
+			"alc",
+			"wvr",
+			",",
+			"\"",
+			" ",
+			"\"",
+			", ",
+			"3",
+			"raw azurite",
+			"bsm",
+			"arm",
+			"gsm",
+			"wvr",
+			"ltw",
+			"\\:\\:",
+			":",
+			":(?:[^\\:]*):",
+			":(?:.+):",
+			"[19:21](Shironet ShiTonberry)  ",
+			"[20:34](Aina SaharinAegis)  ",
+			"[21:01](Kissshot AcerolaorionAegis) ",
+			"[20:10](Falsita FawcettKujata) ",
+			"\\n",
+			"[13:58](No PoorsTonberry) ",
+			"[19:28](Aonori AkanoriTonberry) ",
+			"Asylum",
+			"Nascent Flash",
+			"The Blackest Night",
+			"(.)",
+			".",
+			"<wait.2>",
+			"\\n",
+			"stands in fire for mana gain",
+			"<wait.3>",
+			"<wait.4>",
+			"<wait.5>",
+			"<wait.2>",
+			"ffxiv controller"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"",
+			" ",
+			"",
+			" ",
+			"\\n\\nTTM",
+			" ",
+			"\\n\\nTTM",
+			" ",
+			"",
+			" ",
+			">\\n<",
+			"",
+			"exh",
+			"ltw",
+			"Intervention",
+			"t",
+			"3",
+			"2",
+			"crp",
+			"bsm",
+			"arm",
+			"gsm",
+			"ltw",
+			"cul",
+			"alc",
+			"",
+			"\\n",
+			"4",
+			"crp",
+			"bsm",
+			"arm",
+			"gsm",
+			"wvr",
+			": \\:",
+			":\\:",
+			"\\:",
+			"\\:(\\w+)",
+			"\\:$1",
+			":\\1",
+			"",
+			" ",
+			"",
+			"\\n/p ",
+			"\\n/p",
+			"Sacred Soil",
+			"Aurora",
+			"Heart of Stone",
+			"Nascent Flash",
+			"||$1||",
+			"<wait.3>",
+			" / ",
+			"newton",
+			"<wait.4>",
+			"<wait.3>",
+			"<wait.4>",
+			"<wait.3>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "botan-rocks.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
