@@ -55,6 +55,7 @@
 	],
 	"file_history":
 	[
+		"/D/git/botan-rocks/.gitignore",
 		"/D/git/botan-rocks/src/Meta.svelte",
 		"/D/git/botan-rocks/src/App.svelte",
 		"/D/git/botan-rocks/public/index.html",
@@ -63,7 +64,6 @@
 		"/D/git/botan-rocks/src/main.js",
 		"/D/git/botan-rocks/public/mvp.css",
 		"/D/git/botan-rocks/README.md",
-		"/D/git/botan-rocks/.gitignore",
 		"/D/git/botan-rocks/package.json",
 		"/D/git/Simple-Soundboard-master/index.html",
 		"/D/git/Simple-Soundboard-master/inc/json/soundboard.json",

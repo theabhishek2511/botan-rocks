@@ -5,9 +5,7 @@
   import Meta from "./Meta.svelte"
   export let name;
 
-  let searchTerm = "";
-  let sounds = [];
-  let displayList = [];
+  let root = [];
 
   const metadata = {
     title: 'botan.rocks - Your emergency Shishiro Botan noises button.',
@@ -19,19 +17,9 @@
 
   onMount(async () => {
     const res = await fetch(`soundboard.json`);
-    sounds = await res.json();
-    displayList = sounds.files;
+    root = await res.json();
   });
 
-  function filterList(list, query) {
-    displayList = sounds.files;
-    return displayList.filter(item => {
-      return (
-        item.name.toLowerCase().match(query.toLowerCase()) ||
-        item.artist.toLowerCase().match(query.toLowerCase())
-      );
-    });
-  }
 </script>
 
 <style>
@@ -56,6 +44,9 @@
   div {
     margin: 0 auto;
   }
+  section {
+    margin-bottom: 2em
+  }
 </style>
 
 <Meta {metadata}/>
@@ -65,15 +56,18 @@
   <h2>made possible by the endless contributions of the <a target="_blank" href="https://discord.gg/ynSShd8">SSRB fan discord</a></h2>
 </header>
 <main>
+  {#each root as { name, files }}
   <section>
-<!--     <SoundSearch
-      bind:searchTerm
-      on:updateSearch={() => {
-        displayList = filterList(sounds, searchTerm);
-      }} /> -->
-    <Soundboard bind:sounds={displayList} />
+    <h2>{name}</h2>
+    <Soundboard bind:sounds={files} />
+  </section>
+  {/each}
+<!--   <section>
+    <Soundboard bind:sounds={displayList2} />
   </section>
   <section>
-    <p><a target="_blank" href="https://github.com/theabhishek2511/botan-rocks">view source on github</a> | powered by <a target="_blank" href="https://svelte.dev/">svelte</a>, <a target="_blank" href="https://www.netlify.com/">netlify</a> and <a target="_blank" href="https://www.cloudflare.com/">cloudflare</a> | <a target="_blank" href="https://twitter.com/omgitsnewton">site maintainer</a></p>
-  </section>
+    <Soundboard bind:sounds={displayList1} />
+  </section> -->
+  
+  <p><a target="_blank" href="https://github.com/theabhishek2511/botan-rocks">view source on github</a> | powered by <a target="_blank" href="https://svelte.dev/">svelte</a>, <a target="_blank" href="https://www.netlify.com/">netlify</a> and <a target="_blank" href="https://www.cloudflare.com/">cloudflare</a> | <a target="_blank" href="https://twitter.com/omgitsnewton">site maintainer</a></p>
 </main>
